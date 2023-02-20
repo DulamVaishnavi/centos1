@@ -1,2 +1,2 @@
-# centos
+# centos1
 this is my sample repository...
